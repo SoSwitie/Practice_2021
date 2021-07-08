@@ -1,20 +1,33 @@
-# Завдання
-Сформувати список з 30 випадкових цілих чисел від -100 до + 100. Знайти максимальний елемент списку і його порядковий номер. Отримати інший список, що складається тільки з непарних чисел вихідного списку або повідомити, що таких чисел немає. Отриманий список вивести в порядку зменшення елементів.
-# Робота програми
-Спочатку відбувається генерація масиву із чисел від -100 до 100 за допомогою random(). Програма знаходить максимальне значення елементу і його порядковий номер
+# Виконання команд в консолі Git.
+Клонуємо сховище в новий каталог
 
-![image](https://user-images.githubusercontent.com/86661251/124888750-118bae80-dfdf-11eb-8b8e-8dfc9d841186.png)
+![image](https://user-images.githubusercontent.com/86661251/124894184-1868f000-dfe4-11eb-91af-239bbbae8fa5.png)
 
-В результіті вона виводить на екран масив, максимальний елемент і порядковий номер
+Створюємо папку task 0 та перевіряємо статус.
 
-![image](https://user-images.githubusercontent.com/86661251/124888958-439d1080-dfdf-11eb-9699-d1596edcf309.png)
+![image](https://user-images.githubusercontent.com/86661251/124894575-75fd3c80-dfe4-11eb-8f43-0fdd8c1e0a6a.png)
 
-За допомогою цикла йде перевірка на непарність елементів. За допомогою команди reverse=True відбувається створення списку в порядку спадання невід'ємних чисел.
+Створюємо файли та додаємо вміст файлу до індексу
 
-![image](https://user-images.githubusercontent.com/86661251/124889066-5f081b80-dfdf-11eb-9dd2-e3d1533ab5b1.png)
+![image](https://user-images.githubusercontent.com/86661251/124894991-d0969880-dfe4-11eb-88bd-419fc0dfd386.png)
 
-# Результат
+Перевіряємо налаштування 
 
-![image](https://user-images.githubusercontent.com/86661251/124888875-2cf6b980-dfdf-11eb-993a-742a2e254e01.png)
+![image](https://user-images.githubusercontent.com/86661251/124895475-40a51e80-dfe5-11eb-9d1f-aab5f351dfbb.png)
+
+Додаємо task_0 і вивантажуємо його в локальний репозиторій
+
+![image](https://user-images.githubusercontent.com/86661251/124895956-b14c3b00-dfe5-11eb-8fcb-595f72566803.png)
+
+# Створення SHH key.
+
+![image](https://user-images.githubusercontent.com/86661251/124898672-143ed180-dfe8-11eb-9e7b-607a50fdff75.png)
+
+![image](https://user-images.githubusercontent.com/86661251/124901819-06d71680-dfeb-11eb-8187-125629adb5bb.png)
+
+Нова папка з моїм репозиторієм
+
+![image](https://user-images.githubusercontent.com/86661251/124901588-d0999700-dfea-11eb-854b-8160fcf2d79c.png)
+
 
 
