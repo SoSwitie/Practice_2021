@@ -25,6 +25,8 @@
 
 ![image](https://user-images.githubusercontent.com/86661251/124901819-06d71680-dfeb-11eb-8187-125629adb5bb.png)
 
+![image](https://user-images.githubusercontent.com/86661251/124902527-ae544900-dfeb-11eb-9085-c5bfe89ca766.png)
+
 Нова папка з моїм репозиторієм
 
 ![image](https://user-images.githubusercontent.com/86661251/124901588-d0999700-dfea-11eb-854b-8160fcf2d79c.png)
