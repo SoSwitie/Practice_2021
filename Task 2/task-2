@@ -57,7 +57,7 @@ def tg():
 
      value = count.get()
      x=float(value)
-     value=math.tg(x)
+     value=math.tan(x)
      count.delete(0,tkinter.END)
      count.insert(0, value)
      
